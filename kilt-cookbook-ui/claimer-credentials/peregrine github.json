@@ -1,0 +1,34 @@
+{
+  "attester": "PeregrineSelfAttestedSocialKYC",
+  "cTypeTitle": "peregrine github",
+  "isDownloaded": true,
+  "name": "peregrine github",
+  "request": {
+    "claim": {
+      "cTypeHash": "0xad52bd7a8bd8a52e03181a99d2743e00d0a5e96fdc0182626655fcf0c0a776d0",
+      "contents": {
+        "Username": "",
+        "User ID": ""
+      },
+      "owner": "did:kilt:4pyAEJGKaS6mJhFcsM7XXTnSM7JVaAf1z4FhADicquou9LWC"
+    },
+    "claimHashes": [
+      "0x301d19a77c20932e5bd0fc60708ca81176e01eae72c477d84d580df7ebb0a393",
+      "0x327b5dc61fcd5f0a7b8d2aeb717a8827aeadad55bc73ff54346948ab94497b77",
+      "0x57deed5d6750f2f67f13cbd4e1441ab113f4046fa6eba82349f5c7a6615a0ad3"
+    ],
+    "claimNonceMap": {
+      "0x339f3e34c0ed034a231e1c6b052481c9130892cf228909c5c0ca42c1252c64a3": "ab86ee4e-e6fa-47c9-b068-27c908f258b2",
+      "0xdacfdb34bb7d48402d58b067896254bb02ac46c5f8e00ca8e486c00e1ffeed30": "07e552fe-afef-439b-9d7d-80e04e0889af",
+      "0x00713e2b2626208a275a9c25a19d22687a2ee11d136ade52982feb5e8100919d": "ff0abd4c-6df7-45c7-8fe7-c23cf7c1bb00"
+    },
+    "legitimations": [],
+    "delegationId": null,
+    "rootHash": "0xe2e41023fc7a3592ffc45a5cc3e8da5d2de63f6bf231380fb75c0074ef275074",
+    "claimerSignature": {
+      "signature": "0x829862830e5a96c0afad189ab80fa69a19a575c65de2514d9bfbd12f9db0661b88e1e9e8d403bbf01ec20949201531939b48535caff90b0df818c561989fa687",
+      "keyUri": "did:kilt:4pyAEJGKaS6mJhFcsM7XXTnSM7JVaAf1z4FhADicquou9LWC#0xaaa0fb777ad11f6f1bd5f600f368c9f58c777857ab52b8770563677e8fa005ec"
+    }
+  },
+  "attested": true
+}

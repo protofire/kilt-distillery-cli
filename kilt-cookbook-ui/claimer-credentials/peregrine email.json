@@ -1,0 +1,31 @@
+{
+  "attester": "PeregrineSelfAttestedSocialKYC",
+  "cTypeTitle": "peregrine email",
+  "isDownloaded": true,
+  "name": "peregrine email",
+  "request": {
+    "claim": {
+      "cTypeHash": "0x3291bb126e33b4862d421bfaa1d2f272e6cdfc4f96658988fbcffea8914bd9ac",
+      "contents": {
+        "Email": "marcos.carlomagno@protofire.io"
+      },
+      "owner": "did:kilt:4pyAEJGKaS6mJhFcsM7XXTnSM7JVaAf1z4FhADicquou9LWC"
+    },
+    "claimHashes": [
+      "0x5a40e06aa560a91528807c1a2811cfc49a5755a3a7250902828ce0f3edbb791b",
+      "0xa378f34b3e42bfdf59f7dd97f1a8a1e4e2fb80afbe094036aed2d3828c53468b"
+    ],
+    "claimNonceMap": {
+      "0x339f3e34c0ed034a231e1c6b052481c9130892cf228909c5c0ca42c1252c64a3": "df99bef2-43cf-421e-829f-a6f60995e8a7",
+      "0x074dedb05fec3ca0911da30740ac6003d287219260b550c9167f5a4437465b8c": "f5322455-29bf-4650-8c0b-73373814c85a"
+    },
+    "legitimations": [],
+    "delegationId": null,
+    "rootHash": "0x42c534f77309fa737a7d2e139783d493278dcac56044355955a9b99c8569a469",
+    "claimerSignature": {
+      "signature": "0x525af9b8fcfac38accb0e92928507e81c8164ba4a05ea71348df5be4e05bb63d470046d138dd6113e701f804d6ba951dee56e3d061f7cfc2f04f374ac63f8089",
+      "keyUri": "did:kilt:4pyAEJGKaS6mJhFcsM7XXTnSM7JVaAf1z4FhADicquou9LWC#0xaaa0fb777ad11f6f1bd5f600f368c9f58c777857ab52b8770563677e8fa005ec"
+    }
+  },
+  "attested": true
+}

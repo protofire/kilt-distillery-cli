@@ -1,0 +1,34 @@
+{
+  "attester": "PeregrineSelfAttestedSocialKYC",
+  "cTypeTitle": "peregrine twitch",
+  "isDownloaded": true,
+  "name": "peregrine twitch",
+  "request": {
+    "claim": {
+      "cTypeHash": "0x568ec5ffd7771c4677a5470771adcdea1ea4d6b566f060dc419ff133a0089d80",
+      "contents": {
+        "Username": "MCarlomagno",
+        "User ID": "1"
+      },
+      "owner": "did:kilt:4pyAEJGKaS6mJhFcsM7XXTnSM7JVaAf1z4FhADicquou9LWC"
+    },
+    "claimHashes": [
+      "0x8e5b7fb9c8858bfed8a47f72d57c59b3deac099af24d7e3987346f03205f1e5a",
+      "0xa56624d647a611332f96eadb4bb1073138cb884485dae1941e393b2477bb041f",
+      "0xc5833873815fa6ece878ec432896600c4d4d1e078d3ef9b33f8906ad67731c91"
+    ],
+    "claimNonceMap": {
+      "0x339f3e34c0ed034a231e1c6b052481c9130892cf228909c5c0ca42c1252c64a3": "907df905-92db-4017-afa0-af4c01d55973",
+      "0xfbc17ae45f1dc5f754a4b549630d7c91b2773a53c751492e8ccc0c003ee19434": "e5421f84-450f-480f-8abc-58d0ea1daeb1",
+      "0x24cbf272d58a9656ea9b07db6d5460f5bc383f15021a377559c3cddf0bb18a13": "767c12cf-c6ab-4ea3-8b99-9fb8186e494e"
+    },
+    "legitimations": [],
+    "delegationId": null,
+    "rootHash": "0x4e05369803e611148833cca332cb42acef4916ce0f9b7fbfc02a53a36f8dc0e1",
+    "claimerSignature": {
+      "signature": "0x20ec275cfe2331d53e50ea2d1b76645a9b734f3c7293cf27db411160d1d60529201c8a7a592929672fcec516f23c1355c7705b10db82bdc96966f650f87a7985",
+      "keyUri": "did:kilt:4pyAEJGKaS6mJhFcsM7XXTnSM7JVaAf1z4FhADicquou9LWC#0xaaa0fb777ad11f6f1bd5f600f368c9f58c777857ab52b8770563677e8fa005ec"
+    }
+  },
+  "attested": true
+}

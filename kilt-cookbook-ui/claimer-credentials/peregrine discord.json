@@ -1,0 +1,37 @@
+{
+  "attester": "PeregrineSelfAttestedSocialKYC",
+  "cTypeTitle": "peregrine discord",
+  "isDownloaded": true,
+  "name": "peregrine discord",
+  "request": {
+    "claim": {
+      "cTypeHash": "0xd8c61a235204cb9e3c6acb1898d78880488846a7247d325b833243b46d923abe",
+      "contents": {
+        "Username": "MCarlomagno",
+        "Discriminator": "MCarlomagno",
+        "User ID": "1"
+      },
+      "owner": "did:kilt:4pyAEJGKaS6mJhFcsM7XXTnSM7JVaAf1z4FhADicquou9LWC"
+    },
+    "claimHashes": [
+      "0x3d1471b46620f3c08c49de7618c7b846e4b3eed873ea7c8e8e04533fb85d8bbf",
+      "0x536be1dcf7cb3a3d532aee63c8351fe7537e8e27dde116eb6d251f29f9a734eb",
+      "0x58b428299ac9b7d10a4d39c8dc87db15ecaa4c4eb8d1c806fd85b2fcc1b1ab1d",
+      "0xc39abd0ba5f48a4c080d100636fe3e2b6cdcff4b14f7f7b4f3eac5eae1223f04"
+    ],
+    "claimNonceMap": {
+      "0x339f3e34c0ed034a231e1c6b052481c9130892cf228909c5c0ca42c1252c64a3": "937dfc65-1342-4921-9db5-0ceb0414b955",
+      "0x1500ffb46714c3d08f955b88f059a394ebcdeb21202b82e1007eba2a203b4400": "c6af2b5b-0dae-4669-8b00-2c976a4f71bc",
+      "0x1af97896e2d090f8888b4f7d1a7c05467db548e1b6d61686d744264100c5a8af": "901cd1a3-291b-4e67-91e8-4d98ce85660a",
+      "0xec0ec37af30de9ea7c55544dad219770078af8d03e50edabb83095beaa63f62b": "284c1320-e162-49f7-ba16-d8d69389fbf2"
+    },
+    "legitimations": [],
+    "delegationId": null,
+    "rootHash": "0xad839818f92a0525f6a364b10c43623640fd340a2aced9aff88058f3c52972c3",
+    "claimerSignature": {
+      "signature": "0x6224d8b2c0ef31174ebb27664b535bf414cd7edc6c32d39b8cfdf2838ca945731930be1602978d03ac2ff41f37b7bacc284def2bee8f5a446fc8aa3f39ea4c80",
+      "keyUri": "did:kilt:4pyAEJGKaS6mJhFcsM7XXTnSM7JVaAf1z4FhADicquou9LWC#0xaaa0fb777ad11f6f1bd5f600f368c9f58c777857ab52b8770563677e8fa005ec"
+    }
+  },
+  "attested": true
+}
