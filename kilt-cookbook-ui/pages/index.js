@@ -10,15 +10,15 @@ export default function Home() {
   const { user, connected, login, logout } = useUser()
   const router = useRouter() 
 
-  async function testSecretApi() {
-    const result = await fetch('/api/secret', { credentials: 'include' })
-    const message = await result.text()
-    alert(message)
-  }
+  // async function testSecretApi() {
+  //   const result = await fetch('/api/secret', { credentials: 'include' })
+  //   const message = await result.text()
+  //   alert(message)
+  // }
 
-  async function testSecretPage() {
-    router.push('/member/secret')
-  }
+  // async function testSecretPage() {
+  //   router.push('/member/secret')
+  // }
 
   return (
     <Page>
